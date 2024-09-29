@@ -1,4 +1,4 @@
-I am the best
-I am the 
-Let's test merge conflicting
-Highest prize money
+I am the best -- NOPE
+Chirag is dumb
+Let's test merge conflicting -- OKAY
+Highest prize money -- WHAT
